@@ -82,6 +82,7 @@ Suppose that you are an automotive engineer at BMW who is responsible for design
 X1 series. The following table lists some of the specifications of four representative models in this series.
 
 Table 1: Vehicle details for BMW X1 F48 series, from October 2015
+
 | **Class Description** | **Transmission/Gearbox** | **Engine Capacity (cm^3)** | **Fuel Type** | **Co2 Emissions (g/km)** |
 | --- | --- | --- | --- | --- |
 | X1 sDrive18d - 17'' & 18'' wheels | M6 | 1995 | Diesel | **109** |
