@@ -33,6 +33,8 @@ In small groups - workshop good requirements (possibly including derived require
 ## Activity 2: Writing good requirements.
 What might be some of the requirements associated with an emergency alert system for seniors. Emergency alert systems are often made as a pendant and worn by seniors in order to call for help should they fall or need immediate care in their home. 
 
+<img width="364" alt="Screen Shot 2023-03-10 at 11 30 25 am" src="https://user-images.githubusercontent.com/125527438/224192515-d5196bd1-297a-4347-9f10-3da53dec67df.png">
+
 
 
 In the full group workshop 3-5 needs in tabular form.
@@ -75,6 +77,9 @@ Asparagus havesting is a time consuming manual labour process and several compan
 around the world have considered the development of agricultural systems to automate the
 harvesting of asparagus.
 
+<img width="1000" alt="Screen Shot 2023-03-10 at 11 32 22 am" src="https://user-images.githubusercontent.com/125527438/224192639-eb945de8-06b2-4967-9a77-866f8a9ee798.png">
+
+
 Consider the following list of requirements determined by a design team for the development
 of an asparagus harvesting machine.
 
@@ -82,6 +87,7 @@ Create a Requirements Breakdown Structure for the requirements. You should have 
 more than 5-7 requirements at any level of the hierarchy. You may add requirements if you
 feel that a layer of the hierarchy requires a high level requirement underwhich you can
 capture the specific requirements that are written. 
+
 
 * R1: The harvester shall operate autonomously along a row of asparagus.
 * R2: The harvester shall identify spears with a length above ground of 225-275 mm
@@ -101,6 +107,9 @@ capture the specific requirements that are written.
 ## Activity 5: Verifying Requirements
 During the design process the two following stair designs were obtained during the detailed
 design phase. You are part of the design team that is tasked with verifying that the designs meet the requirements.
+
+<img width="889" alt="Screen Shot 2023-03-10 at 11 33 14 am" src="https://user-images.githubusercontent.com/125527438/224192749-a62b396c-6627-4faa-a6c9-7dc468c56949.png">
+
 
 * Which one of the following two design solutions for the going and riser members of a stairway satisfies the relevant NCC Performance Requirement P2.5.1? (Hint: You probably want to read Part 3.9.1 of the Code.)
 * How would you go about verification of a Performance Solution for NCC Performance Requirement P2.5.1(a)? (Hint: Read Part 1.2.2 of the Code.) 
