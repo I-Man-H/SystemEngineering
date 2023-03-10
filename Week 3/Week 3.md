@@ -70,7 +70,7 @@ statements that reference the national construction code appropriately.
 | **ID** | **Description** | **Importance** | **Source** | **Validation** | **Notes** |
 | --- | --- | --- | --- | --- | --- |
 | N1.1 | Stairs to the first floor. | Essential | Customer, Builder | Building inspection | Must be legal |
-| N1.2 | Wheelchair access to the back door | Highly Desirable | Customer | Building inspection | This will require aramp – should be possible without landings. Must be legal |
+| N1.2 | Wheelchair access to the back door | Highly Desirable | Customer | Building inspection | This will require a ramp – should be possible without landings. Must be legal |
 
 ## Activity 4: Requirements for Asparagus Harvest
 Asparagus havesting is a time consuming manual labour process and several companies
