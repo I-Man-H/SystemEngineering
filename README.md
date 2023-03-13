@@ -17,15 +17,15 @@ Weekly course contents, activities and resources will be uploaded under its corr
 5. Weekly Tutorial Attendance and Participation (5%)
 
 ## Important Deadlines
-1. Assignment 1:
-2. Quiz 1
-3. Assignment 2
+1. Assignment 1: 14 March 2023, 8:59 AM
+2. Quiz 1: 20 March 2023
+3. Assignment 2:
 3. Quiz 2
 
 ## Group Project Topics
-1. 
-2. 
-3. 
+1. Solar Soaking System
+2. Drone Exclusion System
+3. Engineers Without Borders
 
 ## Recommended Readings
 * [System Engineering Definitions](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800238)
