@@ -5,7 +5,7 @@ This workshop concerns the process of getting started on a project.  The initial
 
 The Design teams have been randomly assigned.  You will find your group information on the course web site. This is a deliberate aspect of the course – you do not get to choose the people with whom you work on a design team. 
 
-## Activity 1: Forming groups within the tutorial
+## Activity 1: Forming Groups Within the Tutorial
 Form your allocated group project team. Within these groups discuss:
 * Go through the projects one by one. Take time with each project to discuss the issues and scope associated with each project.
 * Discuss what sort of solutions might be possible for each project.
