@@ -17,7 +17,7 @@ Form your allocated group project team. Within these groups discuss:
 * Take notes on important requirements and needs that come up.  These can form the first ideas for stakeholder requirements. 
 
 
-## Activity 2: A Systems Engineering perspective on the project  
+## Activity 2: A Systems Engineering Perspective on the Project  
 The approach of the course is to take a systems engineering approach to the projects.  Such an approach is going to require you to consider the stages of Requirements Analysis, Functional Analysis and Allocation and Design.
 
 Discuss the Requirements Analysis process for each of the projects.
