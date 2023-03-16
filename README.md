@@ -23,9 +23,9 @@ Weekly course contents, activities and resources will be uploaded under its corr
 3. Quiz 2
 
 ## Group Project Topics
-1. Solar Soaking System
-2. Drone Exclusion System
-3. Engineers Without Borders
+1. [Solar Soaking System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867079)
+2. [Drone Exclusion System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867080)
+3. [Engineers Without Borders](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867082)
 
 ## Recommended Readings
 * [System Engineering Definitions](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800238)
