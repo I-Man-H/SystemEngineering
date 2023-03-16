@@ -41,7 +41,10 @@ Take into account:
 * Once you have made a decision as to which project – register on the course web site.
 * Start with initial allocation of jobs for the requirements analysis.  
 
-
+## Group Project Topics
+1. [Solar Soaking System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867079)
+2. [Drone Exclusion System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867080)
+3. [Engineers Without Borders](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867082)
 
 ## Learning Outcomes 
 
