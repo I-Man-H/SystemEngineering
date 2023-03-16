@@ -55,7 +55,7 @@ Once you have done this, come back together in a group and present one of you re
 
 ## Activity 3: National Construction Code
 Mandatory standards for residential building construction in Australia are enforced through
-state and territory level legislation that refers to the National Construction Code (NCC). The
+state and territory level legislation that refers to the National Construction Code ([NCC](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2860515)). The
 NCC is developed by the Australian Building Codes Board (ABCB), a Council of Australian
 Government (COAG) standards writing body.
 
@@ -121,8 +121,8 @@ design phase. You are part of the design team that is tasked with verifying that
 <img width="889" alt="Screen Shot 2023-03-10 at 11 33 14 am" src="https://user-images.githubusercontent.com/125527438/224192749-a62b396c-6627-4faa-a6c9-7dc468c56949.png">
 
 
-* Which one of the following two design solutions for the going and riser members of a stairway satisfies the relevant NCC Performance Requirement P2.5.1? (Hint: You probably want to read Part 3.9.1 of the Code.)
-* How would you go about verification of a Performance Solution for NCC Performance Requirement P2.5.1(a)? (Hint: Read Part 1.2.2 of the Code.) 
+* Which one of the following two design solutions for the going and riser members of a stairway satisfies the relevant [NCC](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2860515) Performance Requirement P2.5.1? (Hint: You probably want to read Part 3.9.1 of the Code.)
+* How would you go about verification of a Performance Solution for [NCC](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2860515) Performance Requirement P2.5.1(a)? (Hint: Read Part 1.2.2 of the Code.) 
 
 
 [Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
