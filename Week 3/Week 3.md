@@ -135,3 +135,8 @@ design phase. You are part of the design team that is tasked with verifying that
 ## Additional Reading
 US DoD Systems Engineering Fundamentals
 * Chapter 4: Requirements Analysis (pages 35-45)
+
+## Discussion Results
+The summary of your discussions can be access below
+
+[Click Here](https://github.com/I-Man-H/SystemEngineering/blob/main/Week%203/Week%203.pdf)
