@@ -30,6 +30,8 @@ Discuss what’s wrong (if anything) with the following requirements:
 
 In small groups - workshop good requirements (possibly including derived requirements) for the five requirements. 
 
+[Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
+
 ## Activity 2: Writing good requirements.
 What might be some of the requirements associated with an emergency alert system for seniors. Emergency alert systems are often made as a pendant and worn by seniors in order to call for help should they fall or need immediate care in their home. 
 
@@ -48,6 +50,8 @@ Now split into small groups write requirements for each need.
 Remember that you may need to write several requirements for a single need. Sometimes, you may capture aspects of several needs in a single requirement.
 
 Once you have done this, come back together in a group and present one of you requirement statements to the rest of the class. 
+
+[Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
 
 ## Activity 3: National Construction Code
 Mandatory standards for residential building construction in Australia are enforced through
@@ -71,6 +75,9 @@ statements that reference the national construction code appropriately.
 | --- | --- | --- | --- | --- | --- |
 | N1.1 | Stairs to the first floor. | Essential | Customer, Builder | Building inspection | Must be legal |
 | N1.2 | Wheelchair access to the back door | Highly Desirable | Customer | Building inspection | This will require a ramp – should be possible without landings. Must be legal |
+
+
+[Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
 
 ## Activity 4: Requirements for Asparagus Harvest
 Asparagus havesting is a time consuming manual labour process and several companies
@@ -104,6 +111,9 @@ capture the specific requirements that are written.
 * R13: The harvester shall cut and deposit diseased or insect ridden spears in the furrow.
 * R14: The harvester shall differentiate between mature erect spears and immature spears and emerging buds. 
 
+
+[Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
+
 ## Activity 5: Verifying Requirements
 During the design process the two following stair designs were obtained during the detailed
 design phase. You are part of the design team that is tasked with verifying that the designs meet the requirements.
@@ -113,6 +123,9 @@ design phase. You are part of the design team that is tasked with verifying that
 
 * Which one of the following two design solutions for the going and riser members of a stairway satisfies the relevant NCC Performance Requirement P2.5.1? (Hint: You probably want to read Part 3.9.1 of the Code.)
 * How would you go about verification of a Performance Solution for NCC Performance Requirement P2.5.1(a)? (Hint: Read Part 1.2.2 of the Code.) 
+
+
+[Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
 
 ## Learning Outcomes
 1. Understand different types of requirements, constraints, and assumptions encountered during systems design
