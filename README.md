@@ -8,6 +8,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 2. [Week 2](./Week 2/Week 2.md)
 3. [Week 3](./Week 3/Week 3.md)
 4. [Week 4](./Week 4/Week 4.md)
+5. [Week 5](./Week 5/Week 5.md)
 
 ## Assessment
 1. 3 Individual Assignments (10% each)
@@ -17,10 +18,14 @@ Weekly course contents, activities and resources will be uploaded under its corr
 5. Weekly Tutorial Attendance and Participation (5%)
 
 ## Important Deadlines
-1. Assignment 1: 14 March 2023, 8:59 AM
-2. Quiz 1: 20 March 2023
-3. Assignment 2:
-3. Quiz 2
+1. Assignment 1: 14 March 2023, 8:59 AM ✔️
+2. Quiz 1: 20 March 2023 ✔️
+3. Assignment 2: 17 April 2023, 8:59 AM 🔲
+3. Quiz 2: 1 May 2023 🔲
+4. Assignment 3: 15 May 2023, 8:59 AM 🔲
+5. Quiz 3: 22 May 2023 🔲
+6. Major Project Presentation: Week 12 🔲
+7. Major Project Report: 29 May 2023, 9:00 AM 🔲 
 
 ## Group Project Topics
 
