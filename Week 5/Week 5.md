@@ -11,10 +11,10 @@ An essential activity in early conceptual design is the development of a functio
 ## Activity 1: Reverse Engineering 
 In groups of three, reverse engineer an automatic teller machine (ATM). You should begin by considering what high-level functions an ATM performs and why it performs them. You may also want to sketch out a typical real-world ATM’s physical system architecture (i.e., the products that constitute the ATM including cash storage, keypad, screen, card slot), and identify all of its external interfaces; its internal interfaces are not as important at this stage. Thinking about an example ATM design might help you identify functions that you may have otherwise missed. 
 
-* Consider the physical realization of the ATM and draw up a systems architecture for a typical ATM (hole in the wall) with functions allocated to subsystems.   
-* Establish a functional description of an ATM.  You should get a function flow block diagram for the ATM function. 
-* Choose a key function of the ATM and consider concept generation for this function.  Expand this out to a system architecture for your system.  
-* From the insight gained in the concept generation step, can you propose an alternative systems architecture for the function of the ATM.  
+ 1. Consider the physical realization of the ATM and draw up a systems architecture for a typical ATM (hole in the wall) with functions allocated to subsystems.   
+ 2. Establish a functional description of an ATM.  You should get a function flow block diagram for the ATM function. 
+ 3. Choose a key function of the ATM and consider concept generation for this function.  Expand this out to a system architecture for your system.  
+ 4. From the insight gained in the concept generation step, can you propose an alternative systems architecture for the function of the ATM.  
 
 
 
