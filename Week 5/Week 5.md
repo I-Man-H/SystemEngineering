@@ -52,6 +52,14 @@ on padlet using [this link](https://anu.padlet.org/u6554505/workshop-5-functiona
 ![ffbd2](https://user-images.githubusercontent.com/125527438/226911455-c7af7104-3d04-403f-9172-f0ad7db56265.png)
 
 
+## Usefull Link
+
+To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [this website](https://app.diagrams.net/).
+ * It is completely **free**.
+ * It can be shared via Google Drive, OneDrive, DropBox for colaborations (useful for group project).
+ * It can generate PNG, SVG, PDF etc. formats with high quality (useful for assignments and group project).
+
+
 ## Learning Outcomes 
 
 1. Identify, analyse and objectively resolve design trade-offs 
