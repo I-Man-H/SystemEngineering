@@ -52,7 +52,7 @@ on padlet using [this link](https://anu.padlet.org/u6554505/workshop-5-functiona
 ![ffbd2](https://user-images.githubusercontent.com/125527438/226911455-c7af7104-3d04-403f-9172-f0ad7db56265.png)
 
 
-## Usefull Link
+## Usefull Links
 
 To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [this website](https://app.diagrams.net/).
  * It is completely **free**.
