@@ -35,6 +35,13 @@ The Group Project Instructions along with the Marking Rubric can be accessed [he
 2. [Drone Exclusion System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867080)
 3. [Engineers Without Borders](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867082)
 
+## Usefull Links
+
+To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [this website](https://app.diagrams.net/).
+ * It is completely **free**.
+ * It can be shared via Google Drive, OneDrive, DropBox for colaborations (useful for group project).
+ * It can generate PNG, SVG, PDF etc. formats with high quality (useful for assignments and group project).
+
 ## Recommended Readings
 * [System Engineering Definitions](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800238)
 * [Chapter 4 of DOD Guidelines](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800242)
