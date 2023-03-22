@@ -13,7 +13,7 @@ In groups of three, reverse engineer an automatic teller machine (ATM). You shou
 
  1. Consider the physical realization of the ATM and systems architecture for a typical ATM (hole in the wall) with functions allocated to subsystems.   
  2. Establish a functional description of an ATM.  You should get a function flow block diagram for the ATM function. 
- 3. Choose a key function of the ATM and consider concept generation for this function. (WE WILL DO THIS PART LATER ON)
+ 3. Choose a key function of the ATM and consider concept generation for this function. (SKIP THIS PART FOR NOW)
  4. From the insight gained in the concept generation step, can you propose an alternative systems architecture for the function of the ATM.  
 
 After you have discussed with your group memeber, please submit your
@@ -34,8 +34,8 @@ ACTEW will purchase chargers from commercial vendors. Your task is not to design
 In groups of three/four: 
 
 1. Design the functional architecture for one of the three types of charging stations (parking garage stations, super charger stations outside Akiba, or private charging stations). Include all applicable interfaces (internal and external) and consider what kind of technology may be required to implement the stations. It may help you to sketch out a potential physical architecture of the station so you don’t forget anything. 
-2. For your choice of system undertake a concept generation process for the key functions.  Generate at least two concept sketches. (WE WILL DO THIS PART LATER ON)
-3. Select a concept sketch and expand this into a system architecture with functional allocation.  (WE WILL DO THIS PART LATER ON)
+2. For your choice of system undertake a concept generation process for the key functions.  Generate at least two concept sketches. (SKIP THIS PART FOR NOW)
+3. Select a concept sketch and expand this into a system architecture with functional allocation.  (SKIP THIS PART FOR NOW)
 
 
 After you have discussed with your group memeber, please submit your
