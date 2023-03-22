@@ -11,11 +11,17 @@ An essential activity in early conceptual design is the development of a functio
 ## Activity 1: Reverse Engineering 
 In groups of three, reverse engineer an automatic teller machine (ATM). You should begin by considering what high-level functions an ATM performs and why it performs them. You may also want to sketch out a typical real-world ATM’s physical system architecture (i.e., the products that constitute the ATM including cash storage, keypad, screen, card slot), and identify all of its external interfaces; its internal interfaces are not as important at this stage. Thinking about an example ATM design might help you identify functions that you may have otherwise missed. 
 
- 1. Consider the physical realization of the ATM and draw up a systems architecture for a typical ATM (hole in the wall) with functions allocated to subsystems.   
+ 1. Consider the physical realization of the ATM and systems architecture for a typical ATM (hole in the wall) with functions allocated to subsystems.   
  2. Establish a functional description of an ATM.  You should get a function flow block diagram for the ATM function. 
- 3. Choose a key function of the ATM and consider concept generation for this function.  Expand this out to a system architecture for your system.  
+ 3. Choose a key function of the ATM and consider concept generation for this function. (WE WILL DO THIS PART LATER ON)
  4. From the insight gained in the concept generation step, can you propose an alternative systems architecture for the function of the ATM.  
 
+After you have discussed with your group memeber, please submit your
+ 1. Function Flow Block Diagram (FFBD)
+ 2. Identify the key function of ATM
+ 3. Alternative System Architecture for the key function of ATM
+
+on padlet using [this link](https://anu.padlet.org/u6554505/workshop-5-functional-analysis-allocation-domyzn1vg9yrs0m5).
 
 
 ## Activity 2: Functional Analysis 
@@ -23,12 +29,27 @@ You are part of the future technologies team at ACTEW tasked with designing the 
 
 Personal EV chargers typically require a single phase supply supporting up to 7.4 kW of power at a nominal supply voltage of 240 V AC (alternating current), and can potentially fully charge an EV within eight hours. The chargers intended for use in parking garages are required to charge cars more rapidly (between 1 and 2 hours for a full charge), and require a 3-phase supply to draw up to 25 kW of AC power. The super chargers intended for Akiba draw up to 120 kW DC (direct current), and—depending on the vehicle—are capable of charging an EV from zero to full in approximately 10 minutes.  
 
-ACTEW will purchase chargers from commercial vendors. Your task is not to design the actual chargers. Your task is to design the charging stations. You decide that the best way to do this is to first analyse each station’s functionality. 
+ACTEW will purchase chargers from commercial vendors. Your task is not to design the actual chargers. Your task is to design the **charging stations**. You decide that the best way to do this is to first analyse each station’s functionality. 
 
-In groups of three: 
-* Design the functional architecture for one of the three types of charging stations (parking garage stations, super charger stations outside Akiba, or private charging stations). Include all applicable interfaces (internal and external) and consider what kind of technology may be required to implement the stations. It may help you to sketch out a potential physical architecture of the station so you don’t forget anything. 
-* For your choice of system undertake a concept generation process for the key functions.  Generate at least two concept sketches.  
-* Select a concept sketch and expand this into a system architecture with functional allocation.  
+In groups of three/four: 
+
+1. Design the functional architecture for one of the three types of charging stations (parking garage stations, super charger stations outside Akiba, or private charging stations). Include all applicable interfaces (internal and external) and consider what kind of technology may be required to implement the stations. It may help you to sketch out a potential physical architecture of the station so you don’t forget anything. 
+2. For your choice of system undertake a concept generation process for the key functions.  Generate at least two concept sketches. (WE WILL DO THIS PART LATER ON)
+3. Select a concept sketch and expand this into a system architecture with functional allocation.  (WE WILL DO THIS PART LATER ON)
+
+
+After you have discussed with your group memeber, please submit your
+ 1. Function Flow Block Diagram (FFBD)
+
+on padlet using [this link](https://anu.padlet.org/u6554505/workshop-5-functional-analysis-allocation-domyzn1vg9yrs0m5).
+
+## Function Flow Block Diagram (FFBD)
+
+![ffbd1](https://user-images.githubusercontent.com/125527438/226911328-1f57b3fd-5323-45e9-a3bd-0dd12b20f1f0.png)
+
+## Functional Hierarchy
+
+![ffbd2](https://user-images.githubusercontent.com/125527438/226911455-c7af7104-3d04-403f-9172-f0ad7db56265.png)
 
 
 ## Learning Outcomes 
