@@ -2,6 +2,11 @@
 
 Relevant Lecture: Week 06 - Conceptual Design
 
+## Announcements:
+
+* Assignment 1 marks have been released.
+* Assignment 2 has been released (Due on 17 April 2023, 8:59 AM)
+
 # Introduction 
 Design synthesis is a creative activity that transforms a system’s **_functional_** decomposition into a **_physical_** architecture (or **_system_** architecture for conceptual systems). Where functional architectures describe **_what_** the system must do, physical and system architectures describe **_how_** the system will do it. 
 
@@ -73,6 +78,11 @@ In your groups:
     * Do functional allocation to identify the primary interfaces between subsystems.  You may identify additional subsystems during this process.  Make sure that all functions in the system are allocated to subsystems or across multiple subsystems.  
 
 4. Identify secondary interfaces between the subsystems.  These are usually dependencies (physical, process, etc) introduced by the concept sketch due to the technological nature of the solution that are not directly captured by the functional decomposition. 
+
+# To Do List
+1. Work on Assignment 2.
+2. Work on your Group Project.
+3. Enjoy you Teaching Break (not studying break 🥲).
 
 
 # Learning Outcomes 
