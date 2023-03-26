@@ -9,6 +9,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 3. [Week 3](./Week 3/Week 3.md)
 4. [Week 4](./Week 4/Week 4.md)
 5. [Week 5](./Week 5/Week 5.md)
+6. [Week 6](./Week 6/Week 6.md)
 
 ## Assessment
 1. 3 Individual Assignments (10% each)
