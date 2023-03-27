@@ -79,6 +79,10 @@ In your groups:
 
 4. Identify secondary interfaces between the subsystems.  These are usually dependencies (physical, process, etc) introduced by the concept sketch due to the technological nature of the solution that are not directly captured by the functional decomposition. 
 
+Upload your answers to each part on padlet using this following [link](https://anu.padlet.org/u6554505/workshop-6-conceptual-design-yl7eujcb38zabqi6).
+
+
+
 # To Do List
 1. Work on Assignment 2.
 2. Work on your Group Project.
