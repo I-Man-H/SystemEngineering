@@ -12,10 +12,10 @@ Weekly course contents, activities and resources will be uploaded under its corr
 6. [Week 6](./Week 6/Week 6.md)
 
 ## Assessment
-1. 3 Individual Assignments (10% each)
-2. 3 Individual Wattle Quizzes (15% each)
+1. 3 Individual Assignments (15% each)
+2. 3 Individual Wattle Quizzes (10% each)
 3. Group Project Report (15%)
-4. Team Presentation (5%)
+4. Group Project Presentation (5%)
 5. Weekly Tutorial Attendance and Participation (5%)
 
 ## Important Deadlines
