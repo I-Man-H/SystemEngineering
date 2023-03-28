@@ -5,7 +5,7 @@ Relevant Lecture: Week 06 - Conceptual Design
 ## Announcements:
 
 * Assignment 1 marks have been released.
-* Assignment 2 has been released (Due on 17 April 2023, 8:59 AM)
+* [Assignment 2](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800232) has been released (Due on 17 April 2023, 8:59 AM)
 
 # Introduction 
 Design synthesis is a creative activity that transforms a system’s **_functional_** decomposition into a **_physical_** architecture (or **_system_** architecture for conceptual systems). Where functional architectures describe **_what_** the system must do, physical and system architectures describe **_how_** the system will do it. 
