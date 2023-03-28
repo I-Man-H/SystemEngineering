@@ -46,6 +46,7 @@ The requirements for the project have been identified to be:
 | R2.2 | The harvester system shall harvest 250 hectares in at most 12 hours. | 1 |
 
 ### R3: Operation 
+
 | ID | Description | Importance |
 | -- | -- | -- |
 | R3.1 | The harvester system shall be able to operate in all weather conditions (including when the furrows are wet and muddy). | 2 |
@@ -53,6 +54,7 @@ The requirements for the project have been identified to be:
 | R3.3 | The harvester system shall be sturdy, reliable, and easily maintained. | 2 |
 
 ### R4: Cost 
+
 | ID | Description | Importance |
 | -- | -- | -- |
 | R4.1 | The harvester system operating costs must be less than $2M per year. | 2 |
