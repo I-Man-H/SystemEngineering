@@ -10,6 +10,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 4. [Week 4](./Week 4/Week 4.md)
 5. [Week 5](./Week 5/Week 5.md)
 6. [Week 6](./Week 6/Week 6.md)
+7. [Week 7](./Week 7/Week 7.md)
 
 ## Assessment
 1. 3 Individual Assignments (15% each)
@@ -21,7 +22,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 ## Important Deadlines
 1. Assignment 1: 14 March 2023, 8:59 AM ✔️
 2. Quiz 1: 20 March 2023 ✔️
-3. Assignment 2: 17 April 2023, 8:59 AM 🔲
+3. Assignment 2: 17 April 2023, 8:59 AM ✔️
 3. Quiz 2: 1 May 2023 🔲
 4. Assignment 3: 15 May 2023, 8:59 AM 🔲
 5. Quiz 3: 22 May 2023 🔲
