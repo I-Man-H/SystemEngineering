@@ -15,6 +15,7 @@ In a full design the QFD is used for system optimisation where various design pa
 The wattle course page has an MS Excel template that you might want to use for this process.
 There is an empty template as well as a partly filled template for this workshop’s activity. 
 
+Click [**here**](Week7/HoQ - Bicycle Suspension.xlsx) to download the Excel template for this example.
 
 # Activity 1: Select a Bicycle Suspension
 In this activity you will compare six different bicycle suspensions and decide which of them best addresses you client’s needs (see Figure 1).
@@ -144,9 +145,3 @@ In your small groups discuss what you can learn from the House of Quality.
     * Chapter 7: Verification (pages 65-72)
   * Ulrich & Eppinger, Product Design and Development 
     * Chapter 5: Product Specifications (first 13 pages of chapter) 
-
-
-
-
-
-
