@@ -15,6 +15,7 @@ In a full design the QFD is used for system optimisation where various design pa
 The wattle course page has an MS Excel template that you might want to use for this process.
 There is an empty template as well as a partly filled template for this workshop’s activity. 
 
+
 # Activity 1: Select a Bicycle Suspension
 In this activity you will compare six different bicycle suspensions and decide which of them best addresses you client’s needs (see Figure 1).
 
