@@ -18,7 +18,7 @@ There is an empty template as well as a partly filled template for this workshop
 # Activity 1: Select a Bicycle Suspension
 In this activity you will compare six different bicycle suspensions and decide which of them best addresses you client’s needs (see Figure 1).
 
-![image](https://user-images.githubusercontent.com/125527438/232689121-aa20b3d6-0589-4a89-be7c-853e63f25efa.png)
+![image](https://user-images.githubusercontent.com/125527438/232694026-3ad5ccb1-9e40-481d-9458-72e194fac28e.png)
 
 Figure 1: Stakeholder requirements and importance. (Ulrich and Eppinger)
 
@@ -112,6 +112,7 @@ Now you can go ahead and score the various concepts by entering the values of th
 
 
 ![image](https://user-images.githubusercontent.com/125527438/232692995-8d83ef84-6c57-4036-8e16-385c27ba76cc.png)
+
 ![image](https://user-images.githubusercontent.com/125527438/232693048-98c8dc67-d9d0-4ed3-ad73-a49f68632210.png)
 
 Figure 3: Design criteria (Ulrich and Eppinger) 
