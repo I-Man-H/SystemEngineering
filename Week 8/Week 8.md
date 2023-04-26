@@ -4,7 +4,7 @@
 
 This workshop concerns planning out stage gates and setting up milestones for your group project.  By this point all teams should have decided on what their projects are.  If there is still any team up unsure of their project or missing members then please get in touch with your tutor.  
 
-This is the last formal tutorial for the course that concerns your group project.  After this, you will be interacting informally with your peers.  There is still a tutorial on course material.  
+This is the last formal tutorial for the course that concerns your group project.  After this, you will be interacting informally with your peers.
 
 In this tutorial we will discuss stage gates and the documentation that you can prepare for a stage gate review.  
 
@@ -58,29 +58,3 @@ If you are going to be working with your mentoring group in the next few weeks t
 
 # Additional Reading 
 Lecture 8, Week 09 on project stages and stage gates.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
