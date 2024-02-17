@@ -5,13 +5,7 @@
 ## Weekly Course Content
 Weekly course contents, activities and resources will be uploaded under its corresponding section.
 1. [Week 1](./Week 1/Week 1.md)
-2. [Week 2](./Week 2/Week 2.md)
-3. [Week 3](./Week 3/Week 3.md)
-4. [Week 4](./Week 4/Week 4.md)
-5. [Week 5](./Week 5/Week 5.md)
-6. [Week 6](./Week 6/Week 6.md)
-7. [Week 7](./Week 7/Week 7.md)
-8. [Week 8](./Week 8/Week 8.md)
+
 
 ## Assessment
 1. 3 Individual Assignments (15% each)
