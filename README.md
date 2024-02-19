@@ -8,29 +8,25 @@ Weekly course contents, activities and resources will be uploaded under its corr
 
 
 ## Assessment
-1. 3 Individual Assignments (15% each)
-2. 3 Individual Wattle Quizzes (10% each)
-3. Group Project Report (15%)
-4. Group Project Presentation (5%)
-5. Weekly Tutorial Attendance and Participation (5%)
+1. 3 Individual Assignments (20% each)
+2. 3 Individual Reflections (5% each)
+3. Group Design Project Report (20%)
+4. Group Design Project Presentation (5%)
+
 
 ## Important Deadlines
-1. Assignment 1: 14 March 2023, 8:59 AM ✔️
-2. Quiz 1: 20 March 2023 ✔️
-3. Assignment 2: 17 April 2023, 8:59 AM ✔️
-3. Quiz 2: 1 May 2023 🔲
-4. Assignment 3: 15 May 2023, 8:59 AM 🔲
-5. Quiz 3: 22 May 2023 🔲
-6. Major Project Presentation: Week 12 🔲
-7. Major Project Report: 29 May 2023, 9:00 AM 🔲 
+1. Assignment 1 🔲
+2. Reflection 1 🔲
+3. Assignment 2 🔲
+3. Reflection 2 🔲
+4. Assignment 3 🔲
+5. Reflection 3 🔲
+6. Group Design Project Presentation 🔲
+7. Group Design Project Report 🔲 
 
 ## Group Project Topics
 
-The Group Project Instructions along with the Marking Rubric can be accessed [here](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867078)
-
-1. [Solar Soaking System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867079)
-2. [Drone Exclusion System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867080)
-3. [Engineers Without Borders](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867082)
+The Group Project Instructions along with the Marking Rubric can be accessed here.
 
 ## Usefull Links
 
@@ -40,7 +36,8 @@ To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [t
  * It can generate PNG, SVG, PDF etc. formats with high quality (useful for assignments and group project).
 
 ## Recommended Readings
-* [System Engineering Definitions](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800238)
+* [System Engineering Definitions](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026654)
+* [Professional Reflection Module](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3137563)
 * [Chapter 4 of DOD Guidelines](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800242)
 * [Requirements Engineering Book](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800243)
 * [Requirements Writing Guide](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800246)
