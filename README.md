@@ -42,3 +42,5 @@ To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [t
 * [Requirements Engineering Book](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800243)
 * [Requirements Writing Guide](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800246)
 
+## Contact Me
+For any course-related enquires, please send me an email to: iman.hosseini@anu.edu.au
