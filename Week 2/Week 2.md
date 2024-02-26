@@ -5,7 +5,7 @@ Relevant lectures: L02: Customer Needs / Standards and Regulations
 The initial phase of requirements analysis involves three steps
 1. Crafting a scope document
 2. Identifying Stakeholders
-3. Generating a Stakeholders needs list.
+3. Generating a Stakeholders' needs list.
 
 These three steps are all associated with acquiring information on the system and building an understanding in the design team of what the problem space is.
 
@@ -52,9 +52,7 @@ and get a few needs written down to learn the approach.
 You should try and get at least two needs each from at least three stakeholders written down.
 Choose one stakeholder from the list above. It is a good idea to choose a stakeholder with a good number of high categories so that you have something to work with. Brainstorm with your
 group what needs this stakeholder may have.
-Each need must be given a short description, an importance, the stakeholder associated with that need should be listed and any notes provided. The levels of importance that are used are
-Essential, Highly Desirable, Desirable, Preferable. Note that essential means that that particular stakeholder sees the need as essential to have the project succeed, not that it is
-actually essential, or that the stakeholder would not still use the project if the essential need is not met.
+Each need must be given a short description, an importance, the stakeholder associated with that need should be listed and any notes provided. The levels of importance that are used are Essential, Highly Desirable, Desirable, Preferable. Note that essential means that that particular stakeholder sees the need as essential to have the project succeed, not that it is actually essential, or that the stakeholder would not still use the project if the essential need is not met.
 When you are discussing stakeholder needs you will come across examples of needs that are more than essential – they are constraints.
 That is they can not be compromised at all. Such needs must be of the form – if this need is not met, they project cannot be built. For example,
 if the transport technology does not meet Australian road rules, then use of the facility would be illegal and the project would not be built. This “need” would be encoded as a constraint:
@@ -104,12 +102,6 @@ Table 2: Global comparison of standards for passenger vehicles
 | China 2004 | Fuel Economy | 2020 | **117** | 4.4 |
 | India 2016 | CO2 Emissions | 2021 | **113** | 4.3 |
 
-## Activity 5: Restriction of Hazardous Substances
-RoHS, also known as Directive 2002/95/EC, originated in the European Union in 2003 and restricts the use of hazardous materials found in electrical and electronic products.
-
-All applicable products in the EU market after July 1, 2006 must pass RoHS compliance. RoHS impacts the entire electronics industry and many electrical products as well.
-
-Discuss what effect RoHS compliance may have had on business. Do you think regulations impede or support business?
 
 # Learning Outcomes
 1. Understand the difference between standards and regulations, and how they apply in the real-world
