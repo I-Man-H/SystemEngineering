@@ -5,6 +5,7 @@
 ## Weekly Course Content
 Weekly course contents, activities and resources will be uploaded under its corresponding section.
 1. [Week 1](./Week 1/Week 1.md)
+2. [Week 2](./Week 2/Week 2.md)
 
 
 ## Assessment
