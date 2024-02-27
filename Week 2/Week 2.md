@@ -95,6 +95,7 @@ series. Keep in mind that regulatory emission targets are set for **fleet averag
 What do you propose that BMW do?
 
 Table 2: Global comparison of standards for passenger vehicles
+
 | **Jurisdiction and first compliance year** | **Basis** | **Future Target Years** | **CO2 Target (g/km)** | **Fuel Economy Target (L/100km)** |
 | --- | --- | --- | --- | --- |
 | EU 2009 | CO2 Emissions | 2021 | **95** | 3.6 |
