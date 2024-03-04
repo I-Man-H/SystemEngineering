@@ -25,7 +25,6 @@ Discuss what’s wrong (if anything) with the following requirements:
 
 In small groups - workshop good requirements (possibly including derived requirements) for the five requirements. 
 
-[Click Here to submit your answers](https://padlet.com/imanhosseini/system-engineering-workshop-uvv29yk8ndd6748i)
 
 ## Activity 2: Writing good requirements.
 What might be some of the requirements associated with an emergency alert system for seniors? Emergency alert systems are often made as a pendants and worn by seniors in order to call for help should they fall or need immediate care in their homes. 
