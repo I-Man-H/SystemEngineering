@@ -18,7 +18,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 
 ## Important Deadlines
 1. Assignment 1 🔲
-2. Reflection 1 [x]
+2. Reflection 1 ✔️
 3. Assignment 2 🔲
 3. Reflection 2 🔲
 4. Assignment 3 🔲
