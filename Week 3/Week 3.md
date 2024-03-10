@@ -109,5 +109,8 @@ capture the specific requirements that are written.
 US DoD Systems Engineering Fundamentals
 * Chapter 4: Requirements Analysis (pages 35-45)
 
-## Discussion Results
+## Discussion Summary
 The summary of your discussions can be accessed below:
+
+* [Tuesday 12-14](https://anu.padlet.org/u6554505/systems-engineering-tuesday-w5k0749tninjp5pa)
+* [Friday 12-14](https://anu.padlet.org/u6554505/system-engineering-friday-s4mb25a43h4fac9j)
