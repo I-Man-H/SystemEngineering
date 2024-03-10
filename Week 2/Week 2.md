@@ -124,5 +124,9 @@ National Construction Code, Building Code of Australia, Volume two
 * https://ncc.abcb.gov.au/
 
 
+# Discussion Summary
 
+A summary of group discussion can be accessed here:
+* [Tuesday 12-14](https://anu.padlet.org/u6554505/systems-engineering-tuesday-cafl4gec7x4pi6g5)
+* [Friday 12-14](https://anu.padlet.org/u6554505/systems-engineering-friday-nay7ey3uvyfy1icm)
 
