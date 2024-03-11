@@ -39,7 +39,9 @@ Take into account:
 * Consider the process you will need to do for requirements analysis.
 * Think of the processes you will need to do for analysis of concept sketches.  Do you have the skill sets in your team?
 * Once you have made a decision as to which project – register on the course website.
-* Start with the initial allocation of jobs for the requirements analysis.  
+* Start with the initial allocation of jobs for the requirements analysis.
+
+Group Project instructions can be accessed [here](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026625).
 
 ## Group Project Topics
 1. [Project A: Urban Composting and Processing](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026627)
