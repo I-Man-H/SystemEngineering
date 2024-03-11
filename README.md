@@ -13,7 +13,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 ## Assessment
 1. 3 Individual Assignments (20% each)
 2. 3 Individual Reflections (5% each)
-3. Group Design Project Report (20%)
+3. [Group Design Project Report](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026625) (20%)
 4. Group Design Project Presentation (5%)
 
 
