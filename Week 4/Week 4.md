@@ -42,9 +42,10 @@ Take into account:
 * Start with initial allocation of jobs for the requirements analysis.  
 
 ## Group Project Topics
-1. [Solar Soaking System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867079)
-2. [Drone Exclusion System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867080)
-3. [Engineers Without Borders](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2867082)
+1. []()
+2. []()
+3. []()
+4. []()
 
 ## Learning Outcomes 
 
@@ -54,7 +55,7 @@ Take into account:
 
 ## Additional Reading 
 
-Project Scope module in the ANU self study modules on the wattle page.
+Project Scope module in the ANU self-study modules on the wattle page.
 
 
 
