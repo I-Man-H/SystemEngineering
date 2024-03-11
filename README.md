@@ -7,6 +7,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 1. [Week 1](./Week 1/Week 1.md)
 2. [Week 2](./Week 2/Week 2.md)
 3. [Week 3](./Week 3/Week 3.md)
+4. [Week 4](./Week 4/Week 4.md)
 
 
 ## Assessment
@@ -17,7 +18,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 
 
 ## Important Deadlines
-1. Assignment 1 🔲
+1. Assignment 1 ✔️
 2. Reflection 1 ✔️
 3. Assignment 2 🔲
 3. Reflection 2 🔲
