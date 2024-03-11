@@ -25,7 +25,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 4. Assignment 3 🔲
 5. Reflection 3 🔲
 6. Group Design Project Presentation 🔲
-7. Group Design Project Report 🔲 
+7. Group Design Project Report (28 May)🔲 
 
 ## Group Project Topics
 
