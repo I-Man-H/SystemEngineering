@@ -38,14 +38,14 @@ Take into account:
 * Don’t just think of a project that you think you have a cool solution for.
 * Consider the process you will need to do for requirements analysis.
 * Think of the processes you will need to do for analysis of concept sketches.  Do you have the skill sets in your team?
-* Once you have made a decision as to which project – register on the course web site.
-* Start with initial allocation of jobs for the requirements analysis.  
+* Once you have made a decision as to which project – register on the course website.
+* Start with the initial allocation of jobs for the requirements analysis.  
 
 ## Group Project Topics
-1. []()
-2. []()
-3. []()
-4. []()
+1. [Project A: Urban Composting and Processing](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026627)
+2. [Project B: Global Emergency Alert System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026629)
+3. [Project C: Software Security on Legacy Systems](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147203)
+4. [Project D: Autonomous Ocean Mapping](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147204)
 
 ## Learning Outcomes 
 
