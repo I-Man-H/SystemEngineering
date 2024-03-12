@@ -29,7 +29,12 @@ Weekly course contents, activities and resources will be uploaded under its corr
 
 ## Group Project Topics
 
-The Group Project Instructions along with the Marking Rubric can be accessed here.
+The Group Project Instructions along with the Marking Rubric can be accessed [here](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026625).
+
+1. [Project A: Urban Composting and Processing](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026627)
+2. [Project B: Global Emergency Alert System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026629)
+3. [Project C: Software Security on Legacy Systems](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147203)
+4. [Project D: Autonomous Ocean Mapping](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147204)
 
 ## Usefull Links
 
