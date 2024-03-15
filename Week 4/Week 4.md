@@ -45,7 +45,7 @@ Group Project instructions can be accessed [here](https://wattlecourses.anu.edu.
 
 ## Group Project Topics
 1. [Project A: Urban Composting and Processing](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026627)
-2. [Project B: Global Emergency Alert System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3026629)
+2. [Project B: Global Emergency Alert System](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147940)
 3. [Project C: Software Security on Legacy Systems](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147203)
 4. [Project D: Autonomous Ocean Mapping](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147204)
 
