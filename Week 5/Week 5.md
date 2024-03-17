@@ -21,6 +21,7 @@ From the insight gained in the functional analysis, can you propose an alternati
 You are part of a design team put together by a large technology firm to build an electronic voting system for the Australian Electoral Committee.  The following requirements  were developed by the team. (Note that these listed here would represent only a subset of high-level requirements for such a project.)  
 
 **Access**
+
 | Requirement ID | Requirement      | Description                                                  |
 |----------------|------------------|--------------------------------------------------------------|
 | R1.1           | Accessibility    | A Registered_Voter shall be able to vote from any Polling_Station within the nation. |
@@ -29,6 +30,7 @@ You are part of a design team put together by a large technology firm to build a
 
 
 **Voting**
+
 | Requirement ID | Requirement       | Description                                                                  |
 |----------------|-------------------|------------------------------------------------------------------------------|
 | R2.1           | Verification      | A Registered_Voter shall be able to confirm and correct their vote before committing it. |
@@ -37,6 +39,7 @@ You are part of a design team put together by a large technology firm to build a
 | R2.3           | Convenience       | The system shall allow Registered_Voters to vote within a Reasonable_Time_Period. |
 
 **Audit**
+
 | Requirement ID | Requirement   | Description                                                                                   |
 |----------------|---------------|-----------------------------------------------------------------------------------------------|
 | R3.1           | Accuracy      | The system must count all votes correctly.                                                    |
@@ -45,6 +48,7 @@ You are part of a design team put together by a large technology firm to build a
 
 
 **Privacy and security**
+
 | Requirement ID | Requirement      | Description                                         |
 |----------------|------------------|-----------------------------------------------------|
 | R4.1           | Anonymity        | The system must guarantee that the Registered_Voter identity is not associated with the vote. |
