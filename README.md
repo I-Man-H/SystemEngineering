@@ -4,12 +4,12 @@
 
 ## Weekly Course Content
 Weekly course contents, activities and resources will be uploaded under its corresponding section.
-1. [Week 1](./Week 1/Week 1.md)
-2. [Week 2](./Week 2/Week 2.md)
-3. [Week 3](./Week 3/Week 3.md)
-4. [Week 4](./Week 4/Week 4.md)
-5. [Week 5](./Week 5/Week 5.md)
-6. [Week 6](./Week 6/Week 6.md)
+1. [Week 1 - System Analysis and Professional Practice](./Week 1/Week 1.md)
+2. [Week 2 - Customer Needs/Standards and Regulations](./Week 2/Week 2.md)
+3. [Week 3 - Requirement Analysis](./Week 3/Week 3.md)
+4. [Week 4 - Group Project](./Week 4/Week 4.md)
+5. [Week 5 - Functional Analysis and Allocation](./Week 5/Week 5.md)
+6. [Week 6 - Systems Architecture/Conceptual Design](./Week 6/Week 6.md)
 
 
 ## Assessment
