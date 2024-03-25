@@ -23,7 +23,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 1. Assignment 1 ✔️
 2. Reflection 1 ✔️
 3. Assignment 2 🔲
-3. Reflection 2 ✔️
+3. Reflection 2 🔲
 4. Assignment 3 🔲
 5. Reflection 3 🔲
 6. Group Design Project Presentation 🔲
