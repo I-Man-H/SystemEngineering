@@ -100,6 +100,13 @@ The summary of your discussions for Activity 2 can be found here:
 * [Tuesday Session](https://anu.padlet.org/u6554505/system-engineering-tuesday-1oyecp7j7tl4qfqw)
 * [Friday Session](https://anu.padlet.org/u6554505/system-engineering-friday-ld8jxduxrrbmav0v)
 
+An example of the FFBD for the electronic voting system:
+
+<img width="897" alt="Screenshot 2024-03-25 at 6 23 28 pm" src="https://github.com/I-Man-H/SystemEngineering/assets/125527438/e078f148-a4d4-459e-9897-bb8d39779060">
+
+
+
+
 ## Function Flow Block Diagram (FFBD)
 
 ![ffbd1](https://user-images.githubusercontent.com/125527438/226911328-1f57b3fd-5323-45e9-a3bd-0dd12b20f1f0.png)
