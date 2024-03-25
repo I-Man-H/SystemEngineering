@@ -4,8 +4,8 @@ Relevant Lecture: Week 06 - Conceptual Design
 
 ## Announcements:
 
-* Assignment 1 marks have been released.
-* [Assignment 2](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800232) has been released (Due on 17 April 2023, 8:59 AM)
+* Reflection 2 due date has been extended to Tuesday 2nd April - 9:00 AM.
+* [Assignment 2]() has been released (Due on 15 April 2024, 9:00 AM).
 
 # Introduction 
 Design synthesis is a creative activity that transforms a system’s **_functional_** decomposition into a **_physical_** architecture (or **_system_** architecture for conceptual systems). Where functional architectures describe **_what_** the system must do, physical and system architectures describe **_how_** the system will do it. 
@@ -33,10 +33,10 @@ The requirements for the project have been identified to be:
 | -- | -- | -- |
 | R1.1 | The harvester system shall be able to identify spears between 225 and 275mm | 3 |
 | R1.2 | The harvester system shall be able to identify spears with diameters between 10 and 18mm | 3 |
-| R1.3 | The harvester system shall be able to identify between erect spears and bent over spears (maximum of 10% curvature) | 2 |
+| R1.3 | The harvester system shall be able to identify between erect spears and bent-over spears (maximum of 10% curvature) | 2 |
 | R1.4 | The harvester system shall be able to identify between healthy and diseased spears. | 2 |
-| R1.5 | The harvester system shall be able to dispatch bent over spears, diseased spears, and weeds to the furrow. | 1 |
-| R1.6 | The harvester system shall be able to identify between mature spears, immature spears, and emerging bud. | 1 |
+| R1.5 | The harvester system shall be able to dispatch bent-over spears, diseased spears, and weeds to the furrow. | 1 |
+| R1.6 | The harvester system shall be able to identify between mature spears, immature spears, and emerging buds. | 1 |
 
 ### R2: Recovery Rate 
 
@@ -86,9 +86,10 @@ Upload your answers to each part on padlet using this following [link](https://a
 
 
 # To Do List
-1. Work on Assignment 2.
-2. Work on your Group Project.
-3. Enjoy you Teaching Break (not studying break 🥲).
+1. Work on Reflection 2.
+2. Work on Assignment 2.
+3. Work on your Group Project.
+4. Enjoy your Teaching Break (not studying break 🥲).
 
 
 # Learning Outcomes 
