@@ -17,6 +17,19 @@ In groups of three, reverse engineer an automatic teller machine (ATM).
 
 From the insight gained in the functional analysis, can you propose an alternative systems architecture for the functions of the ATM? 
 
+
+An example of the FFBD for the ATM:
+
+<img width="885" alt="Screenshot 2024-03-25 at 6 16 55 pm" src="https://github.com/I-Man-H/SystemEngineering/assets/125527438/292ef3be-24f3-4f7a-9309-05c4d46b4312">
+
+
+### Discussions Summary
+
+The summary of your discussions for Activity 1 can be found here:
+* [Tuesday Session](https://anu.padlet.org/u6554505/system-engineering-tuesday-z8tfw0k9jm6qbrvu)
+* [Friday Session](https://anu.padlet.org/u6554505/system-engineering-friday-q5686vehc3daetpm)
+
+
 ## Activity 2: Functional Analysis 
 You are part of a design team put together by a large technology firm to build an electronic voting system for the Australian Electoral Committee.  The following requirements  were developed by the team. (Note that these listed here would represent only a subset of high-level requirements for such a project.)  
 
@@ -80,6 +93,12 @@ You are part of a design team put together by a large technology firm to build a
    * Inputs
    * Outputs
    * Boundary
+
+### Discussions Summary
+
+The summary of your discussions for Activity 2 can be found here:
+* [Tuesday Session](https://anu.padlet.org/u6554505/system-engineering-tuesday-1oyecp7j7tl4qfqw)
+* [Friday Session](https://anu.padlet.org/u6554505/system-engineering-friday-ld8jxduxrrbmav0v)
 
 ## Function Flow Block Diagram (FFBD)
 
