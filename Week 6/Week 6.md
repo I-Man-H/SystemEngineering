@@ -12,7 +12,7 @@ Design synthesis is a creative activity that transforms a system’s **_function
 
 Determining the best possible solution for any particular problem has the potential to be very complicated, especially if the different solutions have little in common. Fortunately, it is possible in most cases to objectively evaluate each concept’s ability to satisfy the system requirements, allowing to perform a detailed **_concept comparison_**.  
 
-Everything about the different concepts can be different… except one thing: the set of concept-independent system requirements (defined in the SRS) which they all aim to satisfy. Concept comparison therefore depends entirely on the stakeholder’s needs and expectations, and their relative importance. Most of the time it comes down to **_cost, schedule, and complexity_**.
+Everything about the different concepts can be different… except for one thing: the set of concept-independent system requirements (defined in the SRS) which they all aim to satisfy. Concept comparison therefore depends entirely on the stakeholder’s needs and expectations, and their relative importance. Most of the time it comes down to **_cost, schedule, and complexity_**.
 
 # Scenario
 Asparagus is a high value crop horticultural crop for which the harvesting is almost entirely unautomated. Asparagus spears grow quickly (50-100mm per day in good conditions) and must be harvested when they are 225-275mm high.  They grow unevenly from neighbouring plants over a period of 70 days and cannot be harvested in a single “take all” harvest process as is most common in agricultural automation.
@@ -69,13 +69,14 @@ In your groups:
 
 1. Work in groups to brainstorm different concept designs for the functional architecture.  
 
-    * Start by identifying the key functions in the architecture.
-    * Brainstorm a possible solution to these functions.
-    * From this brainstorming process - generate at least two different concept sketches. 
+    * Start by identifying the key functions in the architecture.  Choose at most 3 functions to brainstorm.
+    * Brainstorm a possible solution to these functions.  
+    * From this brainstorming process - generate at least two different concept sketches. Try and get concept sketches that are quite different.  
 
-2. Use the concept comparison process with the evaluation matrix to formally select a concept.  
+2. Use the concept comparison process with the evaluation matrix to formally select a concept.    
+   * Choose at most 5 of the requirements to score with the star method.
 
-3. Work from this starting point to develop a systems architecture.  
+3. Work from this starting point to develop a systems architecture.    
     * Start by identifying the subsystems and components of the system.
     * Do functional allocation to identify the primary interfaces between subsystems.  You may identify additional subsystems during this process.  Make sure that all functions in the system are allocated to subsystems or across multiple subsystems.  
 
@@ -87,6 +88,7 @@ In your groups:
 Please submit/upload your discussion results to the Padlet using the following links:
 * [Tuesday Session](https://anu.padlet.org/u6554505/systems-engineering-tuesday-week-6-w0zyrh2mq3cryckt)
 * [Friday Session](https://anu.padlet.org/u6554505/systems-engineering-friday-week-6-j1ggbmo5y6ueu5og)
+
 
 # To Do List
 1. Work on Reflection 2.
