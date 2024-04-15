@@ -23,10 +23,10 @@ Weekly course contents, activities and resources will be uploaded under its corr
 ## Important Deadlines
 1. Assignment 1 ✔️
 2. Reflection 1 ✔️
-3. Assignment 2 🔲
-3. Reflection 2 🔲
+3. Assignment 2 ✔️
+3. Reflection 2 ✔️
 4. Assignment 3 🔲
-5. Reflection 3 🔲
+5. Reflection 3 - REMOVED
 6. Group Design Project Presentation 🔲
 7. Group Design Project Report (28 May)🔲 
 
@@ -39,7 +39,7 @@ The Group Project Instructions along with the Marking Rubric can be accessed [he
 3. [Project C: Software Security on Legacy Systems](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147203)
 4. [Project D: Autonomous Ocean Mapping](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=3147204)
 
-## Usefull Links
+## Useful Links
 
 To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [this website](https://app.diagrams.net/).
  * It is completely **free**.
@@ -54,4 +54,4 @@ To draw your diagrams (FFBD, System Architecture, Concepts etc.), you may use [t
 * [Requirements Writing Guide](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2800246)
 
 ## Contact Me
-For any course-related enquires, please send me an email to: iman.hosseini@anu.edu.au
+For any course-related enquiries, please send me an email to: iman.hosseini@anu.edu.au
