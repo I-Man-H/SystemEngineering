@@ -10,6 +10,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 4. [Week 4 - Group Project](./Week 4/Week 4.md)
 5. [Week 5 - Functional Analysis and Allocation](./Week 5/Week 5.md)
 6. [Week 6 - Systems Architecture/Conceptual Design](./Week 6/Week 6.md)
+7. [Week 7 - Preliminary Design](./Week 7/Week 7.md)
 
 
 ## Assessment
